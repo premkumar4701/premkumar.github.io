@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Prem Kumar J</title>
-    <link>http://localhost:1313/</link>
+    <link>https://premkumar4701.github.io/</link>
     <description>Recent content on Prem Kumar J</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2024 18:03:04 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://premkumar4701.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Room Migration Handling for Android Libraries</title>
-      <link>http://localhost:1313/posts/room-migration-handling-for-android-libraries/</link>
+      <link>https://premkumar4701.github.io/posts/room-migration-handling-for-android-libraries/</link>
       <pubDate>Thu, 28 Nov 2024 18:03:04 +0530</pubDate>
-      <guid>http://localhost:1313/posts/room-migration-handling-for-android-libraries/</guid>
+      <guid>https://premkumar4701.github.io/posts/room-migration-handling-for-android-libraries/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Have you ever wondered while creating libraries why are we having a separate Room DB implementation in library ? However we knew that client can Implement Room DB but still we create our Room DB in library Why ?&lt;/p&gt;
 &lt;p&gt;There are enamours reasons to create a separate Room DB for example to get full control over the Room DB etc…&lt;/p&gt;
